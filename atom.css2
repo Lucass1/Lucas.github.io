@@ -1,0 +1,5 @@
+body {
+background-image:url(https://zellox.com/wp-content/uploads/2016/04/background-site-%E2%80%AB30071183%E2%80%AC-%E2%80%AB%E2%80%AC.jpg);
+background-repeat: no repeat;
+}
+p {color:white;}
